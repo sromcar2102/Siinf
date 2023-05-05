@@ -1,0 +1,5 @@
+Este script ha sido creado por Sandra Román el día 24/03/2023 a las 13:54:30,85
+El resultado de la suma: 3 + 7 es 10
+El resultado de la resta: 7 - 3 es 4
+El resultado del producto: 3 * 7 es 21
+El resultado de la división: 7 / 3 es 2 
